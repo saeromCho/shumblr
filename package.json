@@ -1,0 +1,26 @@
+{
+  "name": "shumblr",
+  "version": "1.0.0",
+  "description": "This is your Terminal Shell + 'Tumblr'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeromCho/shumblr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saeromCho/shumblr/issues"
+  },
+  "homepage": "https://github.com/saeromCho/shumblr#readme",
+  "dependencies": {
+  
+  },
+  "devDependencies": {
+    
+  }
+}
