@@ -11,7 +11,17 @@
     "url": "git+https://github.com/saeromCho/shumblr.git"
   },
   "keywords": [],
-  "author": "",
+  "author": {},
+  "contributors" :[
+     { "name" : "Jongbin JB Lee"
+     , "email" : "jongbin.jb.lee@gmail.com"
+     , "url" : "https://github.com/saeromCho/shumblr"
+     },
+     { "name" : "saeromCho"
+     , "email" : "1perunregret@gmail.com"
+     , "url" : "https://github.com/saeromCho/shumblr"
+     }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/saeromCho/shumblr/issues"
